@@ -4,17 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Database Engineer
 -----------------
 
-* 🌍  I'm based in Shahdrah, Pakistan
-* ✉️  You can contact me at [hamzamushtaq0923@gmail.com](mailto:hamzamushtaq0923@gmail.com)
-* 🧠  I'm expert in  Artificial Intelligence, Deep Learning and Machine learning
-*   Co-Founder of Amazon AND Ali Baba
-*   CEO of GOOGLE
-*   Currently MD at NASA
-*   Tatoo of Elons Musk (to the moon)
-*   Crypto da pawaa Beera lawaaa 2.5M BTC
-*   Agent in NSA (National Security Agency)
-*   Vice President of USA
-*   Army Zindabad
+
 
 <a href="https://www.github.com/hamzamushtaq092" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/hamzamushtaq092?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
